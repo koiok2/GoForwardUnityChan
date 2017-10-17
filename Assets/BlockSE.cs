@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class block : MonoBehaviour {
+public class BlockSE : MonoBehaviour {
 
 	public AudioClip impact;
 	AudioSource audio;
